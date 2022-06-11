@@ -1,2 +1,2 @@
-#digitalskola_batch7
+# Digitalskola_batch7
 Greetings from github desktop
